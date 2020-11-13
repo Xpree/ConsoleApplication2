@@ -40,8 +40,6 @@ void helloWorldDo()
 	while (i < x);
 }
 
-
-
 void info()
 {
     string name;
